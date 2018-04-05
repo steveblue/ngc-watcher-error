@@ -1,6 +1,6 @@
 # ngc relative path watcher error
 
-The app is alredy built in the `build` folder. All that is needed is to install dependencies and call ngc to reproduce. 
+The app is already built in the `build` folder. All that is needed is to install dependencies and call ngc to reproduce. 
 
 
 Steps to reproduce:
