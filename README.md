@@ -2,6 +2,8 @@
 
 The app is alredy built in the `build` folder. All that is needed is to install dependencies and call ngc to reproduce. 
 
+When the config is located in the root directory, the watcher works.
+
 Steps to reproduce:
 
 ``` bash
