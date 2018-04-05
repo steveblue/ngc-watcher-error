@@ -6,7 +6,7 @@ Steps to reproduce:
 
 ``` bash
 $ npm install
-$ ngc node_modules/.bin/ngc -p config/tconfig.dev.json --watch
+$ ngc node_modules/.bin/ngc -p config/tsconfig.dev.json --watch
 ```
 
 Make a change in any file in `src/app`.
