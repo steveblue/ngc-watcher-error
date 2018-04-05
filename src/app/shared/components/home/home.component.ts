@@ -34,6 +34,7 @@ export class HomeComponent implements OnDestroy {
 
   stealthMode: string;
 
+
   constructor() {
 
     this.stealthMode = 'active';

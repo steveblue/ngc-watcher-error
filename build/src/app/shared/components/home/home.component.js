@@ -4,9 +4,7 @@ var core_1 = require("@angular/core");
 var animations_1 = require("@angular/animations");
 var HomeComponent = /** @class */ (function () {
     function HomeComponent() {
-        this.helloString = 'Hello World';
         this.stealthMode = 'active';
-        this.helloString = 'myString';
     }
     HomeComponent.prototype.ngOnDestroy = function () {
         this.stealthMode = 'inactive';
