@@ -1,0 +1,22 @@
+{
+  "name": "angular-polyfills",
+  "version": "1.0.1",
+  "license": "ISC",
+  "description": "All polyfills suggested by the Angular team",
+  "homepage": "https://github.com/lucascono/angular-polyfills",
+  "author": "Lucas Banegas <lucasconobanegas@gmail.com>",
+  "main": "dist/all.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucascono/angular-polyfills.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lucascono/angular-polyfills/issues"
+  },
+  "keywords": [
+    "angular",
+    "angular2",
+    "polyfill",
+    "polyfills"
+  ]
+}
